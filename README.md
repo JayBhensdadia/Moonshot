@@ -1,7 +1,7 @@
 
-# IExpense
+# Moonshot
 
- It is an expense tracker that separates personal costs from business costs. At its core this is an app with a form (how much did you spend?) and a list (here are the amounts you spent).
+It is an app that lets users learn about the missions and astronauts that formed NASA’s Apollo space program.
 
 
 ## Screenshots
